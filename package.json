@@ -1,5 +1,5 @@
 {
-  "name": "react-hooks-paginator",
+  "name": "react-hooks-paginator-fixed",
   "description": "A package for adding paginator functionality to react apps",
   "version": "0.5.3",
   "main": "dist/index.cjs.js",
@@ -21,7 +21,7 @@
     "paginator"
   ],
   "author": {
-    "name": "Nwakwoke Patrick",
+    "name": "Nwakwoke Patric",
     "email": "patricknwak@gmail.com"
   },
   "license": "MIT",
